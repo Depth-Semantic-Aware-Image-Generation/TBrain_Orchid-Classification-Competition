@@ -12,7 +12,7 @@ The competition on the TBrain platform involves using artificial intelligence, m
 4. Then use each trained model to predict the category.
 5. Finally, use the three CSV files predicted by the three trained models to perform weighted averaging.
 
-![show1 Image](data/show1.png)
+![show1 Image](data/show1.jpg)
 
 ## Code Description
 
