@@ -16,7 +16,7 @@ The competition on the TBrain platform involves using artificial intelligence, m
 ## Code Description
 
 - **run_SPM.py & run_FH.py**:  
-  Two different methods for training models and making predictions
+  Two different methods for training models and making predictions.
 
 - **data_loader.py**:  
   Read and organize all the provided official data.
