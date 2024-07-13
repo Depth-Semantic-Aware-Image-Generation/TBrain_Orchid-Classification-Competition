@@ -1,6 +1,7 @@
 ## TBrain Orchid-Species-Identification-&-Classification-Competition
 The competition on the TBrain platform involves using artificial intelligence, machine learning, and deep learning to train high-accuracy orchid image recognition models.  
 
+![show6 Image](data/show6.PNG)
 ![show5 Image](data/show5.PNG)
 
 ## Preparation and Process
