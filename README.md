@@ -18,12 +18,9 @@ The competition on the TBrain platform involves using artificial intelligence, m
 
 - **run_SPM.py & run_FH.py**:  
   Two different methods for training models and making predictions.
-
 - **data_loader.py**:  
   Read and organize all the provided official data.
-
 - **Image_Search_Crawler.py**:  
   Crawl images from the web using image search.
-  
 - **transpose.py**:  
   Data augmentation methods.
